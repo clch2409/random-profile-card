@@ -25,9 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Full Screen](./FULL_SCREEN.png)
-![Mobile](./MOBILE.png)
-![Active State](./ACTIVE.png)
+![Full Screen](./full_screen.png)
+![Mobile](./mobile.png)
+![Active State](./active.png)
 
 ### Links
 
